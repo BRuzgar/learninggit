@@ -1,0 +1,2 @@
+# learninggit
+Örnek çalışma
